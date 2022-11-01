@@ -1,1 +1,0 @@
-# ra-git-training
